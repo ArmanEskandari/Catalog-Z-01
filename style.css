@@ -1,0 +1,51 @@
+figure {
+    padding: 10% 3%;
+}
+
+footer {
+    background-color: #f1f1f1;
+}
+
+h1 {
+    color: #16697a;
+    display: inline-block;
+}
+
+img {
+    border-radius: 25px;
+}
+
+figcaption {
+    color: #898b8a;
+}
+
+.navbar-nav {
+    font-size: 1.25rem;;
+}
+
+.navbar-brand {
+    color: #16697a;
+}
+
+.search {
+    height: 200px;
+    background-image: url(images/hero.jpg);
+    background-attachment: local;
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+}
+
+.page-search {
+    color: #16697a;
+}
+
+
+.items {
+    padding-top: 7%;
+    padding-bottom: 7%;
+}
+
+.page-btn {
+    padding: 7% 8%;
+}

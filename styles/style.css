@@ -1,0 +1,30 @@
+.navbar-brand {
+    color: #16697a;
+}
+
+
+.search {
+    height: 200px;
+    background-image: url(hero.jpg);
+    background-attachment: local;
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+}
+
+.frm {
+    width: 300px;
+}
+
+figure {
+    padding: 10% 3%;
+}
+
+.items {
+    padding-top: 7%;
+    padding-bottom: 7%;
+}
+
+footer {
+    background-color: #f1f1f1;
+}
