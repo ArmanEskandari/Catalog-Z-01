@@ -28,16 +28,19 @@ figcaption {
 }
 
 .search {
-    display: flex;
-    flex-wrap: nowrap;
-    justify-content: center;
-    align-items: center;
     height: 200px;
     background-image: url(images/hero.jpg);
     background-attachment: local;
     background-repeat: no-repeat;
     background-position:center;
     background-size: cover;
+}
+
+.flex-container {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
     overflow: hidden;
 }
 
