@@ -29,6 +29,7 @@ figcaption {
 
 .search {
     display: flex;
+    flex-wrap: nowrap;
     justify-content: center;
     align-items: center;
     height: 200px;
